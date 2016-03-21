@@ -1,0 +1,35 @@
+{
+  "name": "spawn-manager",
+  "version": "0.1.0",
+  "description": "abstracts how you use spawn in node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "minami": "^1.1.1",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulhome/spawn-manager"
+  },
+  "keywords": [
+    "character",
+    "replace"
+  ],
+  "author": {
+    "name": "Sul Aga",
+    "url": "http://www.sulhome.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulhome/spawn-manager/issues"
+  },
+  "homepage": "https://github.com/sulhome/spawn-manager",
+  "engines": {
+    "node": "5.x.x"
+  }
+}
