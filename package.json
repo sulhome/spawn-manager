@@ -1,6 +1,6 @@
 {
   "name": "spawn-manager",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "abstracts how you use spawn in node",
   "main": "index.js",
   "dependencies": {},
@@ -17,8 +17,9 @@
     "url": "https://github.com/sulhome/spawn-manager"
   },
   "keywords": [
-    "character",
-    "replace"
+    "spawn",
+    "subprocess",
+    "manager"
   ],
   "author": {
     "name": "Sul Aga",
